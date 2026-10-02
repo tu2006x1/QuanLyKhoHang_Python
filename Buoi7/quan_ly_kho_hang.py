@@ -4,10 +4,10 @@
 
 # 1. Khai báo dữ liệu ban đầu
 danh_sach_hang_hoa = [
-    {"ma_sp": "SP01", "ten_sp": "Laptop Dell", "so_luong": 10, "don_gia": 15000000, "danh_muc": "Lien Quan"},
+    {"ma_sp": "SP01", "ten_sp": "Laptop Dell", "so_luong": 10, "don_gia": 15000000, "danh_muc": "Maytinh"},
     {"ma_sp": "SP02", "ten_sp": "Chuot Khong Day", "so_luong": 50, "don_gia": 250000, "danh_muc": "Phu Kien"},
     {"ma_sp": "SP03", "ten_sp": "Ban Bieu Co", "so_luong": 30, "don_gia": 800000, "danh_muc": "Phu Kien"},
-    {"ma_sp": "SP04", "ten_sp": "Man Hinh 27 inch", "so_luong": 5, "don_gia": 4500000, "danh_muc": "Lien Quan"}
+    {"ma_sp": "SP04", "ten_sp": "Man Hinh 27 inch", "so_luong": 5, "don_gia": 4500000, "danh_muc": "Manhinh"}
 ]
 
 lich_su_xuat_kho = []
